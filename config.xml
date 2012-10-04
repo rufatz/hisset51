@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http://phonegap.com/ns/1.0"
+        xmlns:gap = "http://phonegap.com/ns/2.0"
         id        = "com.think1.hisset"
         version   = "2.0.0">
     <name>Hisset Think</name>
-    <title>TT</title>
 
     <description>
        Hisset Desk
@@ -14,7 +13,7 @@
         Think LLC
     </author>
 
-    <feature name="http://api.phonegap.com/1.0/device" />
+    <feature name="http://api.phonegap.com/2.0/device" />
 
     <preference name="phonegap-version" value="2.0.0" />
     <preference name="orientation"      value="default" />
