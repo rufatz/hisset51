@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns     = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.think2.hisset5"
-        version   = "1.7.0">
-        
-    <name>Hisset Think</name>
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.thinkerxana.hissetello"
+    version   = "1.0.0">
 
-    <description>
-       Hisset Desk
-    </description>
+<name>Icon and Splash Demo</name>
 
-    <author href="http://think.az" email="rufat@think.az">
-        Think LLC
-    </author>
+<description>
+Basic application to test and demonstrate icons and splash screens.
+</description>
 
-    <feature name="http://api.phonegap.com/1.0/device" />
+<author href="https://build.phonegap.com" email="rufat@think.az">
+Bax bele</author>
 
-    <preference name="phonegap-version" value="1.0.0" />
-    <preference name="orientation"      value="default" />
-    <preference name="target-device"    value="universal" />
-    <preference name="fullscreen"       value="false" />
+<preference name="phonegap-version" value="1.7.0" />
+
+<!-- Icons -->
+
 
 </widget>
