@@ -4,6 +4,7 @@
         id        = "com.think1.hisset"
         version   = "2.0.0">
     <name>Hisset</name>
+    <title>TT</title>
 
     <description>
        Hisset Desk
